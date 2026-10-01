@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Calculadora de Nómina</string>
+
+    <string name="titulo_nomina">Calculadora de Nómina</string>
+
+    <string name="salario_basico">Salario básico mensual</string>
+    <string name="horas_extra_diurnas">Horas extra diurnas</string>
+    <string name="horas_extra_nocturnas">Horas extra nocturnas</string>
+
+    <string name="horas_domingo_festivo">Horas extra en domingo o festivo</string>
+    <string name="transporte_empresa">La empresa suministra el transporte</string>
+
+    <string name="calcular">Calcular</string>
+    <string name="limpiar">Limpiar</string>
+
+    <string name="resultado">Resultado</string>
+    <string name="salario_neto">Salario neto a recibir</string>
+
+    <string name="valor_hora">Valor hora ordinaria</string>
+    <string name="salario_basico_resultado">Salario básico</string>
+    <string name="horas_extra_resultado">Horas extra</string>
+    <string name="auxilio_transporte">Auxilio de transporte</string>
+    <string name="total_devengado">Total devengado</string>
+    <string name="salud">Salud (4 %)</string>
+    <string name="pension">Pensión (4 %)</string>
+    <string name="solidaridad">Fondo de Solidaridad Pensional (1 %)</string>
+    <string name="total_deducciones">Total deducciones</string>
+
+    <string name="rango_1">Rango salarial 1</string>
+    <string name="rango_2">Rango salarial 2</string>
+    <string name="rango_3">Rango salarial 3</string>
+
+    <string name="descripcion_rango_1">Salario de hasta 2 salarios mínimos</string>
+    <string name="descripcion_rango_2">Salario mayor a 2 y menor a 4 salarios mínimos</string>
+    <string name="descripcion_rango_3">Salario de 4 salarios mínimos o más</string>
+
+    <string name="imagen_rango_1">Imagen representativa del rango salarial 1</string>
+    <string name="imagen_rango_2">Imagen representativa del rango salarial 2</string>
+    <string name="imagen_rango_3">Imagen representativa del rango salarial 3</string>
+
+    <string name="error_salario_requerido">El salario básico es obligatorio.</string>
+    <string name="error_salario_minimo">El salario debe ser igual o mayor al salario mínimo de 2026.</string>
+    <string name="error_horas_negativas">Las horas no pueden ser negativas.</string>
+    <string name="error_maximo_horas_extra">El total de horas extra no puede superar 48 horas al mes.</string>
+
+</resources>
